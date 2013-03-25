@@ -12,3 +12,5 @@
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
 #endif
+
+#define kExampleURL @"https://dl.dropbox.com/u/20184229/accounts.json"
